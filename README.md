@@ -1,4 +1,6 @@
 <!--# 💫 Hi 👋, I'm Subhava Ojha -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/subhava-ojha/">
     <img src="https://github.com/subhava06/subhava06/blob/main/intogif.gif?raw=true" 
@@ -15,12 +17,15 @@
 
 Email Me 👉 ✉️ **subhavaojha2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** building a chat app using Flutter and Firebase
-- 🌱 **I’m currently learning:** Flutter || Firebase || Node.js || Azure || Docker || Postman
-- 👯 **I’m looking to collaborate on:** any Flutter project
-- 🤔 **I’m looking for help with:** https://github.com/subhava06/technews_flutter
-- 💬 **Ask me about:** App development, Data structures and algorithms and competitive exams
-- 📫 **How to reach me:** subhavaojha2003@gmail.com
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+- 🔭 **I’m currently working on** building a chat app using Flutter and Firebase
+- 🌱 **I’m currently learning** Flutter || Firebase || Node.js || Azure || Docker || Postman
+- 👯 **I’m looking to collaborate on** some cool Flutter projects
+- 🤔 **I’m looking for help with** https://github.com/subhava06/technews_flutter
+- 💬 **Ask me about** App development, Data structures and algorithms and competitive exams
+- 📫 **How to reach me** subhavaojha2003@gmail.com
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhava.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhava-ojha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OjhaSubhava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhavaojha2003@gmail.com) 
