@@ -1,6 +1,6 @@
 <!--# 💫 Hi 👋, I'm Subhava Ojha -->
 <p align="center">
-  <a href="https://github.com/subhava06">
+  <a href="https://www.linkedin.com/in/subhava-ojha/">
     <img src="https://github.com/subhava06/subhava06/blob/main/intogif.gif?raw=true" 
          alt="👋 Hi there! I'm Subhava Ojha" 
          title="👋 Hi there! I'm Subhava Ojha"
